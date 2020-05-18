@@ -1,18 +1,18 @@
 # PyShop
 
-PyShop is a e-commerce website and REST API made in Python language, using Django and Django REST Framework.
+PyShop is a e-commerce website and REST API built in Python language, using Django and Django REST Framework.
 
 
 ## Overview
 
 PyShop website allows customers to search and buy products online, track progress and understand details of their orders.
-The platform also allows the managers to use the RESTAPI or a private section of the website (manually) to control the e-commerce data.
+The platform also allows the managers to use the REST API or a private section of the website (manually) to control the e-commerce data.
 As said above, the application was built in Python, using Django, Django REST Framework, and uses coverage to analyze how much code is covered by the unit tests (apps' tests directory).
 
 
 ## Software Requirements
 
-- [python 3.5+](https://www.python.org/)
+- [python 3.8+](https://www.python.org/)
 - [Django 2.0+](https://www.djangoproject.com/download/)
 - [Django Rest Framework 3.8+](http://www.django-rest-framework.org/#installation)
 - [Coverage.py 4.3+](https://coverage.readthedocs.io/en/coverage-4.5.1a/install.html)
